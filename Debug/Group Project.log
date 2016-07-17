@@ -1,0 +1,29 @@
+﻿  screen.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': macro redefinition
+  C:\Users\Crafty Owl\Google Drive\Programming\C++\CISS22C\Group Project\include\curses.h(160): note: see previous definition of 'MOUSE_MOVED'
+c:\users\crafty owl\google drive\programming\c++\ciss22c\group project\kmp.h(54): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+c:\users\crafty owl\google drive\programming\c++\ciss22c\group project\kmp.h(55): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+screen.cpp(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+screen.cpp(456): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\crafty owl\google drive\programming\c++\ciss22c\group project\rk.h(31): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  c:\users\crafty owl\google drive\programming\c++\ciss22c\group project\rk.h(28): note: while compiling class template member function 'void RabinKarp<char>::add(T *,T *,size_t,size_t)'
+          with
+          [
+              T=char
+          ]
+  screen.cpp(262): note: see reference to function template instantiation 'void RabinKarp<char>::add(T *,T *,size_t,size_t)' being compiled
+          with
+          [
+              T=char
+          ]
+  screen.cpp(261): note: see reference to class template instantiation 'RabinKarp<char>' being compiled
+c:\users\crafty owl\google drive\programming\c++\ciss22c\group project\rk.h(32): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Group Project.vcxproj -> C:\Users\Crafty Owl\Google Drive\Programming\C++\CISS22C\Group Project\Debug\Group Project.exe
+  Group Project.vcxproj -> C:\Users\Crafty Owl\Google Drive\Programming\C++\CISS22C\Group Project\Debug\Group Project.pdb (Partial PDB)
